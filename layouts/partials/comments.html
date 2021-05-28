@@ -48,7 +48,7 @@
     <input name="received" type="text">
     <input name="email" type="text">
     <textarea name="comment"></textarea>
-</form>
+</form> 
 <div class="row justify-content-center content-title pt-5">
     <div class="offset-1 col-11 col-lg-8 col-xl-8 pb-3">
         <h5>Leave a comment</h5>
@@ -56,35 +56,36 @@
     </div>
 </div>
 <form class="needs-validation" novalidate name="pending-comments" method="POST" action="/thanks" netlify-honeypot="callsign" netlify>
-    <div class="row justify-content-center content-body">
-        <div class="col-3 col-lg-2 col-xl-2">
+    <div class="">
+        <div class="">
             <input class="d-none" name="callsign">
             <input name="path" type="hidden" value="{{ .RelPermalink }}">
+            <br />
             <label for="validationCustom01">First Name</label>
-            <input name="first_name" type="text" class="form-control" id="validationCustom01" required>
+            <input name="first_name" type="text" class="" id="validationCustom01" required>
             <div class="invalid-feedback">Please provide a first name.</div>
         </div>
-        <div class="col-3 col-lg-2 col-xl-2">
+        <div class="">
             <label for="validationCustom02">Last Name</label>
-            <input name="last_name" type="text" class="form-control" id="validationCustom02" required>
+            <input name="last_name" type="text" class="" id="validationCustom02" required>
             <div class="invalid-feedback">Please provide a last name.</div>
         </div>
-        <div class="col-4 col-lg-3 col-xl-3">
+        <div class="">
             <label for="validationCustom03">Email</label>
-            <input name="email" type="text" class="form-control" id="validationCustom03" aria-describedby="emailHelp" required>
+            <input name="email" type="text" class="" id="validationCustom03" aria-describedby="emailHelp" required>
             <div class="invalid-feedback">Please provide a valid email address.</div>
             <small id="emailHelp" class="form-text text-muted">Your email will never be shared.</small>
         </div>
     </div>
-    <div class="row justify-content-center content-body">
-        <div class="col-10 col-lg-7 col-xl-7">
+    <div class="">
+        <div class="">
             <label for="validationCustom04">Comment</label>
-            <textarea rows="5" name="comment" class="form-control" id="validationCustom04" required></textarea>
+            <textarea rows="5" name="comment" class="" id="validationCustom04" required></textarea>
             <div class="invalid-feedback">Please provide a comment.</div>
         </div>
     </div>
-    <div class="row justify-content-center content-body">
-        <div class="offset-1 col-11 col-lg-8 col-xl-8 pt-4">
+    <div class="">
+        <div class="">
             <button class="btn btn-primary" type="submit">Submit Comment</button>
         </div>
     </div>
