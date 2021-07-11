@@ -1,0 +1,6 @@
+comment-management
+hadb0x_41vuHaGivyCmEem7vr5E1B4wjJly13Yvyk88
+
+
+slack webhook
+curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' https://hooks.slack.com/services/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
