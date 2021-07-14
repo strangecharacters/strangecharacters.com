@@ -1,0 +1,11 @@
+[build]
+    command = "gulp build:comments && hugo && npx netlify-lambda build /netlify"
+    publish = "/public"
+    functions = "/netlify"
+
+[context.production]
+    command = "gulp build:comments && hugo && npx netlify-lambda build /netlify"
+    functions = "/netlify"
+    [context.production.environment]
+        HUGO_VERSION = "0.81.0"
+        HUGO_ENV = "production"
