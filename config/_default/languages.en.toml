@@ -1,13 +1,13 @@
-languageCode = "en-au"
-languageName = "English (Australia)"
-displayName = ":flag-au:"
-isoCode = "en-AU"
+languageCode = "en-ie"
+languageName = "English (Ireland)"
+displayName = ":flag-ie:"
+isoCode = "en-IE"
 weight = 1
 rtl = false
 
-title = "Congo"
+title = "StrangeCharacters"
 # logo = "img/logo.jpg"
-description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+description = "Doing things and writing about them."
 copyright = "&copy; 2022 Congo contributors"
 
 dateFormat = "2 January 2006"
