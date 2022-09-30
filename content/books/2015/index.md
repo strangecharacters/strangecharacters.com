@@ -5,10 +5,9 @@ draft = false
 featuredImage = ""
 # hidden = true
 omitDate = false
-summary = "Journey under the Midnight Sun"
+summary = "Journey under the Midnight Sun and Einstein's biography"
 +++
 
-<!--more-->
 {{<lead>}}
 **Journey under the midnight sun** opens with a murder case and follows numerous characters over the subsequent years as you slowly close in on the culprit. One of my favourite thrillers of all time.
 

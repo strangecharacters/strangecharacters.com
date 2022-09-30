@@ -12,7 +12,7 @@ summary = "The Pillars of Earth, First Man and A Strangeness in my Mind"
 
 **First Man** The story of Neil Armstrong.
 
-**A strangeness in my mind** A drink seller in Istanbul watches the city change aorund him.
+**A strangeness in my mind** A drink seller in Istanbul watches the city change around him.
 {{</lead>}}
 ### The Reading List
 * Grow, cook, eat : a GIY guide to growing and cooking your own food / Michael Kelly ; edited by Cristíona Kiely. 

@@ -1,15 +1,10 @@
 ---
-title: "Projecs I Wish Id Started"
+title: "Projects I created in another timeline"
 date: 2022-03-02T22:13:04Z
 draft: true
 showTableOfContents: true
 ---
 
-
-
-## My kind of business
-### My kind of business
-#### My kind of business
 
 * Not for workaholics (within reason) 
 
