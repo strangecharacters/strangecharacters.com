@@ -1,29 +1,45 @@
 ---
-title: "Aw Yiss Breadcrumbs"
+title: "Aw Yiss, Breadcrumbs"
 date: 2023-03-20T13:37:23Z
-draft: true
+draft: false
+showTableOfContents: false
 ---
+I think I'm going to be talking about procrastination quite often.
+It's been the bane of my life for a long time now.
 
-I've got one good habit that I've kept for years and it's a [gratitude journal]().
+If I'm going to leave things unfinished or interrupt myself I need to **find a way to restart**.
 
+I'm trying to leave a **trail of breadcrumbs** that can get me back on track.
 
+These make it easier to recover from getting sidestracked.
 
-I made it a rule of thumb for myself that I wouldn't publish things about my plans on this site.
-Instead I wanted to document what I had actually done. Results rather than wishes.
+{{< figure
+    src="awyiss.png"
+    alt="Aw Yiss, a duck finds some breadcrumbs"
+    caption="by [Kate Beaton](http://www.harkavagrant.com/index.php) on [Hark! A Vagrant](http://www.harkavagrant.com/nonsense/gorey5.png)"
+    >}}
 
-All my efforts seem really piecemeal and I find myself thinking that I hadn't really done anything worth writing about.
+<!-- OR 
+![Abstract purple artwork](awyiss.png "Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)")
+-->
 
-There is one good habit that I've maintained for years and that's keeping a [gratitude journal](#).
+#### Breadcrumbs
+* I have a [gratitude journal]() listing things I've done and things I'm grateful for every day.
 
-Trying to find what to write for this site I went back and read my journal entries.
+I am very self critical and filling this in has helped me develop the habit of thinking about the positives.
+I leave the journal next to my bed and write just before I sleep, which helps avoid ruminating and keeping me awake.
+* I use [logseq](https://logseq.com) for taking notes and brainstorming on the pc.
+I prefer the feel of writing ideas onto paper but logseq is great for taking notes from pdfs and youtube videos.
+* I send emails to myself.
+* I __like__ things on [twitter](https://twitter.com/strangechars/likes) that I might want to revisit
+* My browser [history](chrome://history) or the plethora of open tabs that stretch into the distance
+* I have a whiteboard in my office that I sometimes leave messages on
+* If I'm reading a book that I want to refer back to I stick small post-its on the relevant page
+* Sometimes I just take a picture of something with my phone, all pics get uploaded to google photos automatically.
 
-Even if I didn't feel very productive here was a list of things that I had done, things that made me happy or grateful.
+If I was writing more code ( and I'd like to be doing that ) I could also use github as a history of work done. Hopefully with meaningful commit messages.
 
-I had a trail of breadcrumbs to follow.
+* [Bullet Journaling](#) is the main way for me to list my tasks and work through them during the day. I don't decorate or do anything complicated with it, it's a form of short-term memory on paper.
 
-Opening up the history tab on my browser lets me see what interesting projects I had been looking at. Youtube history shows what educated and entertained.
-Likes or bookmarks on twitter and even the group chats with my friends all leave evidence of something.
+<!--
 
-I find it too easy to be critical and feel bad about not achieving enough but journaling and digital breadcrumbs are a useful reminder of what I __am__ getting done.
-
-And that's worth focusing on.
