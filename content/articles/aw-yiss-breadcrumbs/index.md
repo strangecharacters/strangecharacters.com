@@ -11,7 +11,7 @@ If I'm going to leave things unfinished or interrupt myself I need to **find a w
 
 I'm trying to leave a **trail of breadcrumbs** that can get me back on track.
 
-These make it easier to recover from getting sidestracked.
+These make it easier to recover from getting sidetracked.
 
 {{< figure
     src="awyiss.png"
@@ -24,7 +24,7 @@ These make it easier to recover from getting sidestracked.
 -->
 
 #### Breadcrumbs
-* I have a [gratitude journal]() listing things I've done and things I'm grateful for every day.
+* I have a [gratitude journal](https://nesslabs.com/gratitude) listing things I've done and things I'm grateful for every day.
 
 I am very self critical and filling this in has helped me develop the habit of thinking about the positives.
 I leave the journal next to my bed and write just before I sleep, which helps avoid ruminating and keeping me awake.
@@ -39,7 +39,7 @@ I prefer the feel of writing ideas onto paper but logseq is great for taking not
 
 If I was writing more code ( and I'd like to be doing that ) I could also use github as a history of work done. Hopefully with meaningful commit messages.
 
-* [Bullet Journaling](#) is the main way for me to list my tasks and work through them during the day. I don't decorate or do anything complicated with it, it's a form of short-term memory on paper.
+* [Bullet Journaling](https://bulletjournal.com) is the main way for me to list my tasks and work through them during the day. I don't decorate or do anything complicated with it, it's a form of short-term memory on paper.
 
 <!--
 
