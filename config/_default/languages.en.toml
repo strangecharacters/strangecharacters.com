@@ -8,7 +8,7 @@ rtl = false
 title = "StrangeCharacters"
 # logo = "img/logo.jpg"
 description = "Doing things and writing about them."
-copyright = "&copy; 2022 Congo contributors"
+copyright = "&copy;StrangeCharacters 2022 Congo contributors"
 
 dateFormat = "2 January 2006"
 
