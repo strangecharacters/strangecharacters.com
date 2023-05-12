@@ -41,5 +41,4 @@ If I was writing more code ( and I'd like to be doing that ) I could also use gi
 
 * [Bullet Journaling](https://bulletjournal.com) is the main way for me to list my tasks and work through them during the day. I don't decorate or do anything complicated with it, it's a form of short-term memory on paper.
 
-<!--
 

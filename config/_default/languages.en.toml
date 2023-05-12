@@ -13,10 +13,10 @@ copyright = "&copy; 2022 Congo contributors"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Congo"
+  name = "Declan"
   image = "img/author.jpg"
-  headline = "Not your ordinary theme!"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  headline = "Making and breaking"
+  bio = "Learning and documenting."
   links = [
     { twitter = "https://twitter.com/" },
     { facebook = "https://facebook.com/" },
