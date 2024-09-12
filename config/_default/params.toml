@@ -7,15 +7,15 @@
 
 colorScheme = "ocean"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
-showAppearanceSwitcher = true
+footer.autoSwitchAppearance = true
+footer.showAppearanceSwitcher = true
 
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["articles"]
+mainSections = ["articles", "devlog"]
 # robots = ""
-showScrollToTop = true
+footer.showScrollToTop = true
 
 [homepage]
   layout = "custom" # valid options: page, profile, custom

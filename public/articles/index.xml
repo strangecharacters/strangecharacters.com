@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on StrangeCharacters</title>
+    <link>/articles/</link>
+    <description>Recent content in Articles on StrangeCharacters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>&amp;copy;StrangeCharacters 2022 Congo contributors</copyright>
+    <lastBuildDate>Wed, 17 May 2023 17:10:24 +0100</lastBuildDate><atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smallest Todo List</title>
+      <link>/articles/smallest-todo-list/</link>
+      <pubDate>Wed, 17 May 2023 17:10:24 +0100</pubDate>
+      
+      <guid>/articles/smallest-todo-list/</guid>
+      <description>Make it smaller than that.</description>
+    </item>
+    
+    <item>
+      <title>Aw Yiss, Breadcrumbs</title>
+      <link>/articles/aw-yiss-breadcrumbs/</link>
+      <pubDate>Mon, 20 Mar 2023 13:37:23 +0000</pubDate>
+      
+      <guid>/articles/aw-yiss-breadcrumbs/</guid>
+      <description>I think I&amp;rsquo;m going to be talking about procrastination quite often.</description>
+    </item>
+    
+  </channel>
+</rss>

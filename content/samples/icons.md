@@ -23,7 +23,7 @@ The full list of built-in icons and their corresponding names can referenced bel
 | dribbble             | {{< icon dribbble >}}             |
 | edit                 | {{< icon edit >}}                 |
 | email                | {{< icon email >}}                |
-| exclamation-triangle | {{< icon exclamation-triangle >}} |
+| exclamation-triangle |  icon exclamation-triangle        |
 | facebook             | {{< icon facebook >}}             |
 | flickr               | {{< icon flickr >}}               |
 | foursquare           | {{< icon foursquare >}}           |
@@ -48,7 +48,7 @@ The full list of built-in icons and their corresponding names can referenced bel
 | slack                | {{< icon slack >}}                |
 | snapchat             | {{< icon snapchat >}}             |
 | soundcloud           | {{< icon soundcloud >}}           |
-| stackoverflow        | {{< icon stackoverflow >}}        |
+| stackoverflow        |     icon stackoverflow            |
 | steam                | {{< icon steam >}}                |
 | sun                  | {{< icon sun >}}                  |
 | telegram             | {{< icon telegram >}}             |

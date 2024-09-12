@@ -1,25 +1,27 @@
 languageCode = "en-ie"
-languageName = "English (Ireland)"
-displayName = ":flag-ie:"
-isoCode = "en-IE"
 weight = 1
-rtl = false
-
 title = "StrangeCharacters"
+
+params.languageName = "English (Ireland)"
+params.displayName = ":flag-ie:"
+params.isoCode = "en-IE"
+params.rtl = false
+params.description = "Doing things and writing about them."
+params.dateFormat = "2 January 2006"
+
 # logo = "img/logo.jpg"
-description = "Doing things and writing about them."
 copyright = "&copy;StrangeCharacters 2022 Congo contributors"
 
-dateFormat = "2 January 2006"
+
 
 [author]
   name = "Declan"
-  image = "img/author.jpg"
+  #image = "img/author.jpg"
   headline = "Making and breaking"
   bio = "Learning and documenting."
   links = [
-    { twitter = "https://twitter.com/" },
-    { facebook = "https://facebook.com/" },
-    { linkedin = "https://linkedin.com/" },
+    { twitter = "https://twitter.com/strangechars" },
+   # { facebook = "https://facebook.com/" },
+   # { linkedin = "https://linkedin.com/" },
     { youtube = "https://youtube.com/" },
   ]
