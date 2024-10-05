@@ -1,11 +1,16 @@
 +++
 title = "2023"
 date = 2023-11-01T17:05:15Z
-draft = true
-summary = "No summary yet"
+draft = false
+summary = "Girl, woman, other and The quiet revolution of Caroline Herschel."
 omitDate = true
 +++
+{{<lead>}}
+**Girl, woman, other** by Evaristo, Bernardine
 
+**The quiet revolution of Caroline Herschel** : the lost heroine of astronomy by Winterburn, Emily
+
+{{</lead>}}
 * We, robots / Anthology
 * The crash detectives : investigating the world's most mysterious air disasters / Negroni, Christine
 * The artist's way : a spiritual path to higher creativity / Cameron, Julia

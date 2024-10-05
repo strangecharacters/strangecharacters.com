@@ -8,7 +8,7 @@ omitDate = true
 {{<lead>}}
 **An Irish Atlantic rainforest** by Eoghan Daltun
 
-Allowing land to return to its natural state on west coast of Ireland.
+Allowing land to return to its natural state on the west coast of Ireland.
 {{</lead>}}
 
 * An Irish Atlantic rainforest : a personal journey into the magic of rewilding / Daltun, Eoghan

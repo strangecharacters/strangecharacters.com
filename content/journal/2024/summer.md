@@ -1,33 +1,29 @@
 +++
 title = "Summer 2024"
 date = 2024-05-01T17:05:15Z
-draft = true
-summary = "No summary yet"
+draft = false
+summary = "Regenesis, Carmina Burana"
 omitDate = true
 +++
-## July
-### Female Impressionists in the National Gallery
-![Impressionist painting of Eugene Manet and his daughter - Berthe Morisot](../PXL_20240716_152202250.jpg)
-Berthe Morisot
->In 1882 when Morisot was in Nice, she wrote to Eugene at home in Paris asking him to select her submissions for the seventh Impressionist exhibition. She was astonished to learn that he included this painting, which was not one of her immediate choices.
-
-![The Lady in White - Marie Bracquemond](../IMG_20240716_163052.jpg)
-Marie Bracquemond
-> Her meticulous technique meant that her painting process was time-consuming and her oeuvre realtively small. Bracquemond mostly worked at home in Sevres, using her sister, Louise, as her model.
-
-![The Letter - Mary Cassatt](../IMG_20240716_162719.jpg)
-Mary Cassatt
->Wealthy, independent and single, Cassatt lived a long and productive life. Throughout her career, Cassatt was actively involved in supporting women's rights, education and suffrage.
 
 
-### Lunchtime Concert in NCH
-![NCH Concert](../IMG_20240716_135853.jpg)
-### Dark
-A child disappears in a German town and a body is found in the forest. Sci-fi ensues. Ganz gut, auf Deutsch.
-### The Lazarus Project
-Time loop sci-fi. A British agency tries to save the world by resetting time to avoid disaster.
-### A Line to Kill
-Anthony Horowitz
+## May
+### Summer Music at Sandford Parish Church
+[Ischico Velzel](https://www.ischico.com/en) on Piano 24th May
+![Sandford Parish Church](../PXL_20240524_115415377.jpg)
+* [Scriabin](https://en.wikipedia.org/wiki/Alexander_Scriabin)
+* [Chebotarian](https://en.wikipedia.org/wiki/Gayane_Chebotaryan)
+* Original works and improvisations
+
+### Hugh Lane Concert series with Duo Anima
+Andreea Banciu - Viola
+
+Aileen Cahill - piano
+* Luise LeBeau - Three pieces for Viola and Piano, op. 26
+* Jane O'Leary - In Shadow
+* John McLachlan - Atalanta (John was present for this premiere of his work)
+* Rebecca Clarke - Sonata for Viola and Piano
+![Hugh Lane piano concert](../PXL_20240519_105439237.MP.jpg)
 
 ## June
 ### Regenesis by George Monbiot
@@ -105,20 +101,26 @@ Starring [Shohreh Aghdashloo](https://www.youtube.com/watch?v=PTVz65Va1BA) in he
 I'm not sure about this, it certainly doesn't feel like ST:TNG.
 
 The third season has better reviews so I'll plough through 
-## May
-### Summer Music at Sandford Parish Church
-[Ischico Velzel](https://www.ischico.com/en) on Piano 24th May
-![Sandford Parish Church](../PXL_20240524_115415377.jpg)
-* [Scriabin](https://en.wikipedia.org/wiki/Alexander_Scriabin)
-* [Chebotarian](https://en.wikipedia.org/wiki/Gayane_Chebotaryan)
-* Original works and improvisations
+## July
+### Female Impressionists in the National Gallery
+![Impressionist painting of Eugene Manet and his daughter - Berthe Morisot](../PXL_20240716_152202250.jpg)
+Berthe Morisot
+>In 1882 when Morisot was in Nice, she wrote to Eugene at home in Paris asking him to select her submissions for the seventh Impressionist exhibition. She was astonished to learn that he included this painting, which was not one of her immediate choices.
 
-### Hugh Lane Concert series with Duo Anima
-Andreea Banciu - Viola
+![The Lady in White - Marie Bracquemond](../IMG_20240716_163052.jpg)
+Marie Bracquemond
+> Her meticulous technique meant that her painting process was time-consuming and her oeuvre realtively small. Bracquemond mostly worked at home in Sevres, using her sister, Louise, as her model.
 
-Aileen Cahill - piano
-* Luise LeBeau - Three pieces for Viola and Piano, op. 26
-* Jane O'Leary - In Shadow
-* John McLachlan - Atalanta (John was present for this premiere of his work)
-* Rebecca Clarke - Sonata for Viola and Piano
-![Hugh Lane piano concert](../PXL_20240519_105439237.MP.jpg)
+![The Letter - Mary Cassatt](../IMG_20240716_162719.jpg)
+Mary Cassatt
+>Wealthy, independent and single, Cassatt lived a long and productive life. Throughout her career, Cassatt was actively involved in supporting women's rights, education and suffrage.
+
+
+### Lunchtime Concert in NCH
+![NCH Concert](../IMG_20240716_135853.jpg)
+### Dark
+A child disappears in a German town and a body is found in the forest. Sci-fi ensues. Ganz gut, auf Deutsch.
+### The Lazarus Project
+Time loop sci-fi. A British agency tries to save the world by resetting time to avoid disaster.
+### A Line to Kill
+Anthony Horowitz

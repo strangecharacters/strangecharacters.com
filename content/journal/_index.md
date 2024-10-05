@@ -1,5 +1,5 @@
 +++
-title = "Media"
+title = "Journal"
 
 [cascade]    
     showTableOfContents = true

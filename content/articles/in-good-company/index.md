@@ -8,14 +8,14 @@ Wake up, grab a cup of tea and something to eat. Time to start work.
 
 Even better, time to start a business.
 
-When I was a kid, back in the last century I had a Commodore 64. I loved reading stories about developers that were working from their bedrooms and making money selling games that they had written themselves.
+When I was a kid, back in the last century, I had a Commodore 64. I loved reading stories about developers that were working from their bedrooms and making money selling games that they had written themselves.
 
 
 What happens next? 
 A home office?
 A laptop on a tropical beach?
 
-If I'm trying to start my own business it makes sense to start something that is fulfilling, that I can enjoy for along time.
+If I'm trying to start my own business it makes sense to start something that is fulfilling, that I can enjoy for a long time.
 
 * The process
 * Side effects

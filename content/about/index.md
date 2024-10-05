@@ -17,7 +17,7 @@ Irish, in my 40's trying to work on exciting projects. he/him.
 #### What I've done
 
 My first computer was a second-hand Commodore 64C. Even before I got it I was obsessed with computers and loved poring over magazines. 
-![commodore64 computer](c64.jpg)I even took a wooden wedge-shaped block and drew a keyboard on it so I could pretend to be programming.
+![commodore64 computer](c64.jpg)
 
 I loved the idea of making things. I tried to build stone axes and bows and arrows when I was 10. They barely worked and weren't practical but I did manage to get home-made weapons banned from my primary school. 
 
