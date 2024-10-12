@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>installation on StrangeCharacters</title>
-    <link>/tags/installation/</link>
-    <description>Recent content in installation on StrangeCharacters</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Installation on StrangeCharacters</title>
+    <link>http://localhost:1313/tags/installation/</link>
+    <description>Recent content in Installation on StrangeCharacters</description>
+    <generator>Hugo</generator>
     <language>en-ie</language>
-    <copyright>&amp;copy;StrangeCharacters 2022 Congo contributors</copyright>
-    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;StrangeCharacters</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/installation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installation</title>
-      <link>/docs/installation/</link>
+      <link>http://localhost:1313/docs/installation/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/installation/</guid>
-      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.</description>
+      <guid>http://localhost:1313/docs/installation/</guid>
+      <description>&lt;p&gt;Simply follow the standard Hugo &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Quick Start&lt;/a&gt; procedure to get up and running quickly.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Getting Started</title>
-      <link>/docs/getting-started/</link>
+      <link>http://localhost:1313/docs/getting-started/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/getting-started/</guid>
-      <description>This section assumes you have already installed the Congo theme.</description>
+      <guid>http://localhost:1313/docs/getting-started/</guid>
+      <description>&lt;div class=&#34;flex rounded-md bg-primary-100 px-4 py-3 dark:bg-primary-900&#34;&gt;&#xA;  &lt;span class=&#34;pe-3 text-primary-400&#34;&gt;&#xA;    &lt;span class=&#34;icon relative inline-block px-1 align-text-bottom&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;This section assumes you have already &lt;a href=&#34;http://localhost:1313/docs/installation/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;installed the Congo theme&lt;/a&gt;.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;The config files that ship with Congo contain all of the possible settings that the theme recognises. By default, many of these are commented out but you can simply uncomment them to activate or change a specific feature.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

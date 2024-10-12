@@ -1,10 +1,5 @@
 +++
-title = "Journal"
-
-[cascade]    
-    showTableOfContents = true
-    showSummary = true
-    showAuthor = false
-    showReadingTime = false
+[cascade]
     showDate = false
+    showSummary = true
 +++

@@ -6,19 +6,20 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "ocean"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 footer.autoSwitchAppearance = true
 footer.showAppearanceSwitcher = true
 
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["articles", "devlog"]
+mainSections = ["articles"]
 # robots = ""
 footer.showScrollToTop = true
+header.showTitle = true # name of the site shown in header
 
 [homepage]
-  layout = "custom" # valid options: page, profile, custom
+  layout = "basic" # valid options: page, profile, custom
   showRecent = true
 
 [article]
@@ -27,13 +28,13 @@ footer.showScrollToTop = true
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
-  editURL = "https://github.com/jpanther/congo/tree/dev/exampleSite/content/"
+  showEdit = false
+  # editURL = "https://github.com/jpanther/congo/tree/dev/exampleSite/content/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
@@ -41,7 +42,7 @@ footer.showScrollToTop = true
 
 [list]
   showBreadcrumbs = true
-  showSummary = true
+  showSummary = false
   showTableOfContents = true
   groupByYear = false
 
@@ -50,6 +51,18 @@ footer.showScrollToTop = true
 
 [taxonomy]
   showTermCount = true
+
+[author]
+  name = "Declan"
+  #image = "img/author.jpg"
+  headline = "Making and breaking"
+  bio = "Learning and documenting."
+  links = [
+    { twitter = "https://twitter.com/strangechars" },
+   # { facebook = "https://facebook.com/" },
+   # { linkedin = "https://linkedin.com/" },
+    { youtube = "https://youtube.com/" },
+  ]
 
 [fathomAnalytics]
   # site = "ABC12345"

@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>icons on StrangeCharacters</title>
-    <link>/tags/icons/</link>
-    <description>Recent content in icons on StrangeCharacters</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Icons on StrangeCharacters</title>
+    <link>http://localhost:1313/tags/icons/</link>
+    <description>Recent content in Icons on StrangeCharacters</description>
+    <generator>Hugo</generator>
     <language>en-ie</language>
-    <copyright>&amp;copy;StrangeCharacters 2022 Congo contributors</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;StrangeCharacters</copyright>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/icons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Icons</title>
-      <link>/samples/icons/</link>
+      <link>http://localhost:1313/samples/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/samples/icons/</guid>
-      <description>Congo has built-in support for a number of FontAwesome 5 icons.</description>
+      <guid>http://localhost:1313/samples/icons/</guid>
+      <description>&lt;p&gt;Congo has built-in support for a number of &lt;a href=&#34;https://fontawesome.com/icons&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 5&lt;/a&gt; icons. These can be included in your website through either the &lt;a href=&#34;http://localhost:1313/docs/partials/#icon&#34;&gt;icon partial&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/docs/shortcodes/#icon&#34;&gt;icon shortcode&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

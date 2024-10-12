@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>example on StrangeCharacters</title>
-    <link>/tags/example/</link>
-    <description>Recent content in example on StrangeCharacters</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Example on StrangeCharacters</title>
+    <link>http://localhost:1313/tags/example/</link>
+    <description>Recent content in Example on StrangeCharacters</description>
+    <generator>Hugo</generator>
     <language>en-ie</language>
-    <copyright>&amp;copy;StrangeCharacters 2022 Congo contributors</copyright>
-    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;StrangeCharacters</copyright>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Examples</title>
-      <link>/docs/content-examples/</link>
+      <link>http://localhost:1313/docs/content-examples/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/content-examples/</guid>
-      <description>If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Congo.</description>
+      <guid>http://localhost:1313/docs/content-examples/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Congo. This page is designed to pull everything together and offer some worked examples that you might like to use in your Hugo project.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

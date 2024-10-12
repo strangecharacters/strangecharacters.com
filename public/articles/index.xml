@@ -2,29 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on StrangeCharacters</title>
-    <link>/articles/</link>
+    <link>http://localhost:1313/articles/</link>
     <description>Recent content in Articles on StrangeCharacters</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-ie</language>
-    <copyright>&amp;copy;StrangeCharacters 2022 Congo contributors</copyright>
-    <lastBuildDate>Wed, 17 May 2023 17:10:24 +0100</lastBuildDate><atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;StrangeCharacters</copyright>
+    <lastBuildDate>Wed, 17 May 2023 17:10:24 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smallest Todo List</title>
-      <link>/articles/smallest-todo-list/</link>
+      <link>http://localhost:1313/articles/smallest-todo-list/</link>
       <pubDate>Wed, 17 May 2023 17:10:24 +0100</pubDate>
-      
-      <guid>/articles/smallest-todo-list/</guid>
-      <description>Make it smaller than that.</description>
+      <guid>http://localhost:1313/articles/smallest-todo-list/</guid>
+      <description>&lt;p&gt;Make it smaller than that.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Aw Yiss, Breadcrumbs</title>
-      <link>/articles/aw-yiss-breadcrumbs/</link>
+      <link>http://localhost:1313/articles/aw-yiss-breadcrumbs/</link>
       <pubDate>Mon, 20 Mar 2023 13:37:23 +0000</pubDate>
-      
-      <guid>/articles/aw-yiss-breadcrumbs/</guid>
-      <description>I think I&amp;rsquo;m going to be talking about procrastination quite often.</description>
+      <guid>http://localhost:1313/articles/aw-yiss-breadcrumbs/</guid>
+      <description>&lt;p&gt;I think I&amp;rsquo;m going to be talking about procrastination quite often.&#xA;It&amp;rsquo;s been the bane of my life for a long time now.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

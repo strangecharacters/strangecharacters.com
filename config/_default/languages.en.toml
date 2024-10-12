@@ -10,18 +10,8 @@ params.description = "Doing things and writing about them."
 params.dateFormat = "2 January 2006"
 
 # logo = "img/logo.jpg"
-copyright = "&copy;StrangeCharacters 2022 Congo contributors"
+copyright = "&copy;StrangeCharacters"
 
 
 
-[author]
-  name = "Declan"
-  #image = "img/author.jpg"
-  headline = "Making and breaking"
-  bio = "Learning and documenting."
-  links = [
-    { twitter = "https://twitter.com/strangechars" },
-   # { facebook = "https://facebook.com/" },
-   # { linkedin = "https://linkedin.com/" },
-    { youtube = "https://youtube.com/" },
-  ]
+
