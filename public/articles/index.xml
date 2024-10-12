@@ -5,7 +5,7 @@
     <link>http://localhost:1313/articles/</link>
     <description>Recent content in Articles on StrangeCharacters</description>
     <generator>Hugo</generator>
-    <language>en-ie</language>
+    <language>en</language>
     <copyright>&amp;copy;StrangeCharacters</copyright>
     <lastBuildDate>Wed, 17 May 2023 17:10:24 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
