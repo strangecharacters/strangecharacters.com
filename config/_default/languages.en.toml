@@ -1,8 +1,8 @@
-languageCode = "en-ie"
+languageCode = "en"
 weight = 1
 title = "StrangeCharacters"
 
-params.languageName = "English (Ireland)"
+params.languageName = "English"
 params.displayName = ":flag-ie:"
 params.isoCode = "en-IE"
 params.rtl = false
