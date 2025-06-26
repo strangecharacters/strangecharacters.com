@@ -3,6 +3,9 @@ title: "Projects"
 date: 2023-05-30T19:47:45+01:00
 draft: false
 ---
+## Woodwork
+
+I've been studying woodwork for a couple of years and am having fun designing chairs and trying to make them.
 
 ### StrangeCharacters.com
 

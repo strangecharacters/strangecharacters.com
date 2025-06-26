@@ -20,10 +20,10 @@ Anything else.
 
 One of the best ways to make a task palatable is to make it smaller.
 
-* Bake a tart that causes a food critic to have an emotional flashback to his grandmother's cooking.
+* Let's bake something delicious
 >I'm not the kind of person that can do that
 
-Let's try making a delicious pear and almond tart
+Let's try making a delicious pear and almond tart with buttery pastry, glazed with apricot jam.  
 
 >Like, in a patisserie? Are you crazy?
 
@@ -74,7 +74,7 @@ What's the intimidating part? Why am I putting this off?
 
 An example:
 
-When writing [breadcrumbs]() I added an item 
+When writing [breadcrumbs](/aw-yiss-breadcrumbs) I added an item 
 
  * save a copy of an image and link to the creator's site in the caption.
 
