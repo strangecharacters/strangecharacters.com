@@ -7,6 +7,7 @@ draft: false
 
 I've been studying woodwork for a couple of years and am having fun designing chairs and trying to make them.
 
+## Websites
 ### StrangeCharacters.com
 
 Blogging about what I'm working on. 
