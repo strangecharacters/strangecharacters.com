@@ -10,6 +10,13 @@
     <lastBuildDate>Thu, 26 Jun 2025 17:04:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/journal/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Noboyuki Tsuji Concert</title>
+      <link>http://localhost:1313/journal/2025/nobuyuki-tsujii-concert/</link>
+      <pubDate>Thu, 26 Jun 2025 17:04:44 +0100</pubDate>
+      <guid>http://localhost:1313/journal/2025/nobuyuki-tsujii-concert/</guid>
+      <description>Blind Japanese pianist in the National Concert Hall</description>
+    </item>
+    <item>
       <title>Snowdrops</title>
       <link>http://localhost:1313/journal/2025/snowdrops/</link>
       <pubDate>Thu, 26 Jun 2025 17:04:44 +0100</pubDate>
@@ -105,7 +112,7 @@
       <link>http://localhost:1313/journal/2015/</link>
       <pubDate>Thu, 31 Dec 2015 14:25:06 +0000</pubDate>
       <guid>http://localhost:1313/journal/2015/</guid>
-      <description>2025</description>
+      <description>Journey under the Midnight Sun and Einstein&amp;rsquo;s biography</description>
     </item>
   </channel>
 </rss>

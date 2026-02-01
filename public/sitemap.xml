@@ -4,7 +4,35 @@
   
     
       <url>
+            <loc>http://localhost:1313/articles/</loc>
+            <lastmod>2025-12-15T12:44:22+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/articles/impostersyndrome/</loc>
+            <lastmod>2025-12-15T12:44:22+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2025-12-15T12:44:22+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/journal/</loc>
+            <lastmod>2025-07-10T19:22:55+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/journal/2025/nobuyuki-tsujii-concert/</loc>
             <lastmod>2025-06-26T17:04:44+01:00</lastmod>
           </url>
     
@@ -18,22 +46,8 @@
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
-            <lastmod>2025-06-26T17:04:44+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/journal/2024/winter/</loc>
             <lastmod>2025-06-26T16:36:35+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/articles/</loc>
-            <lastmod>2025-06-01T20:29:51+01:00</lastmod>
           </url>
     
   

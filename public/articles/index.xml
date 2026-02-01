@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;StrangeCharacters</copyright>
-    <lastBuildDate>Sun, 01 Jun 2025 20:29:51 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 12:44:22 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imposter Syndrome</title>
+      <link>http://localhost:1313/articles/impostersyndrome/</link>
+      <pubDate>Mon, 15 Dec 2025 12:44:22 +0000</pubDate>
+      <guid>http://localhost:1313/articles/impostersyndrome/</guid>
+      <description>&lt;p&gt;The feeling that you&amp;rsquo;re not good enough.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Business Gratitude</title>
       <link>http://localhost:1313/articles/businessgratitude/</link>
