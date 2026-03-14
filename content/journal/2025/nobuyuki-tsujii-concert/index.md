@@ -6,7 +6,6 @@ summary = "Blind Japanese pianist in the National Concert Hall"
 +++
 
 ![National Concert Hall](40ra9sof.png)
-TODO List of pieces he performed
 
 ![Applause Noboyuki Tsuji](thumb-oyyuzjdb.png)
 
